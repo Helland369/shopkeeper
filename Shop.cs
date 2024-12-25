@@ -16,7 +16,7 @@ namespace Shopkeeper
             new Items("Banan",13.66,0),
             new Items("Cucumber",10.12, 0),
             new Items("Milk",17.14, 0),
-            new Items("Bear",25.99,18),
+            new Items("Beer",25.99,18),
         };
 
         public Shop()
