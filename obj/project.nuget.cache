@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qroK7951yfugFvuCyxcUVDDTYplnqzLlA3EJhrLc0yXA8FSPrAqc5vjM/5BlOyt8usfNzqBIsc6er4G6qoZqRQ==",
+  "success": true,
+  "projectFilePath": "/home/th/code/csharp/shopkeeper/shopkeeper.csproj",
+  "expectedPackageFiles": [
+    "/home/th/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/th/code/csharp/shopkeeper/bin/Debug/net8.0/shopkeeper
+/home/th/code/csharp/shopkeeper/bin/Debug/net8.0/shopkeeper.deps.json
+/home/th/code/csharp/shopkeeper/bin/Debug/net8.0/shopkeeper.runtimeconfig.json
+/home/th/code/csharp/shopkeeper/bin/Debug/net8.0/shopkeeper.dll
+/home/th/code/csharp/shopkeeper/bin/Debug/net8.0/shopkeeper.pdb
+/home/th/code/csharp/shopkeeper/obj/Debug/net8.0/shopkeeper.GeneratedMSBuildEditorConfig.editorconfig
+/home/th/code/csharp/shopkeeper/obj/Debug/net8.0/shopkeeper.AssemblyInfoInputs.cache
+/home/th/code/csharp/shopkeeper/obj/Debug/net8.0/shopkeeper.AssemblyInfo.cs
+/home/th/code/csharp/shopkeeper/obj/Debug/net8.0/shopkeeper.csproj.CoreCompileInputs.cache
+/home/th/code/csharp/shopkeeper/obj/Debug/net8.0/shopkeeper.dll
+/home/th/code/csharp/shopkeeper/obj/Debug/net8.0/refint/shopkeeper.dll
+/home/th/code/csharp/shopkeeper/obj/Debug/net8.0/shopkeeper.pdb
+/home/th/code/csharp/shopkeeper/obj/Debug/net8.0/shopkeeper.genruntimeconfig.cache
+/home/th/code/csharp/shopkeeper/obj/Debug/net8.0/ref/shopkeeper.dll
